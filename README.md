@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm RexxzynXD</h1>
 <h3 align="center">A developer from Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rexxhayanasi&label=Profile%20views&color=0e75b6&style=flat" alt="rexxhayanasi" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rexxhayanasi" alt="rexxhayanasi" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 <img src="https://i.ibb.co/T0ch9fG/pp2.png" width="100%" alt="profile" border="0"/>
 <div>
 <img width="337" src="https://i.ibb.co/s1PLVNZ/pp3.png" align=right />

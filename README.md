@@ -7,37 +7,54 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Bot WhatsApp](https:/wa.me/6282249930312)
+<img src="https://i.ibb.co/T0ch9fG/pp2.png" width="100%" alt="profile" border="0"/>
+<div>
+<img width="337" src="https://i.ibb.co/s1PLVNZ/pp3.png" align=right />
+<br/>
+<img src="./img/AboutMe-elaina.png" width="488" />
+<br/>
+<br/>
+<br/>
 
-- 🌱 I'm currently learning **MySql, NodeJS**
+- Name **Reidho Satria** / **レイドー・サトリア**
 
-- 👯 I’m looking to collaborate on [Community Cosplay](https://instagram.com/chaironozora)
+- Live in **South Sumatra, Indonesia**
 
-- 👨‍💻 All of my projects are available at [https://rexxzyn.vercel.app](https://rexxzyn.vercel.app)
+- Studying [**Junior Back-End Developer**](https://dicoding.com)
 
-- 📝 I regularly write articles on [https://github/RexxHayanasi](https://github/RexxHayanasi)
+- Familiar with **GNU/Linux** and **FreeBSD**
 
-- 💬 Ask me about **WhatsApp Bots**
+- Good with **JavaScript** , **TypeScript** , **PHP** , **Go** , and **Python**
 
-- 📫 How to reach me **rexxhosiyamabot@gmail.com**
+- Have high experience with **Photoshop** and **CorelDRAW**
+  
+- Understand 日本語, Bahasa Indonesia, Bahasa Melayu, and English
 
-- ⚡ Fun fact **someone will be there if he needs help**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/rexxzynxd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rexxzynxd" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/rexxzynxd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rexxzynxd" height="30" width="40" /></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elliottophellia&layout=pie&hide_border=true&langs_count=5&theme=transparent&title_color=539BF5&text_color=ADBAC7&text_bold=true" align=right />
+<br/>
+<br/>
+<img src="./img/Repo-elaina.png" width="488" />
+<br/>
+<br/>
+  
+- 📗 [***elliottophellia/aizawa***](https://github.com/elliottophellia/aizawa) <br/>
+  Simple command-line webshell that executes commands via the HTTP request in order to avoid any WAF or IDS while bypassing disable_function.
+- 📘 [***elliottophellia/yakumo***](https://github.com/elliottophellia/yakumo) <br/>
+  FREE CHECKED PROXY LIST UPDATED EVERY 10 MINUTES - HTTP(S), SOCKS4, SOCKS5 (WITH GLOBAL/COUNTRY SPECIFIC RESULT).
+- 📙 [***elliottophellia/kyoko***](https://github.com/elliottophellia/kyoko) <br/>
+  KyokoAPI - My collection of free API you can use on your project.
+- 📒 [***elliottophellia/kaga***](https://github.com/elliottophellia/kaga) <br/>
+  Kaga is a Reverse IP Lookup tool written in PowerShell and BourneShell to make it easy to use in any environment..
+  
+<img src="https://i.ibb.co/YWjgGF4/pp1.png" width="270" align="right" />
+<br/>
+<img src="./img/banner-elainaa.png" width="500" /><br/>
+<sub>“People with evil intent can do evil things without lying. And not all liars are evil.” – Elaina&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;contact : me@rei.my.id</sub>
+<br/><br/>
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=elliottophellia&no-bg=true&no-frame=true&rank=-?&theme=darkhub" align="center"/>
+<br/><br/>
+<p align='center'>
+<a href="#"><img src="https://img.shields.io/badge/%23-DAC6C2?style=for-the-badge"/></a> <a href="https://blog.rei.my.id"><img src="https://img.shields.io/badge/WEBSITE-DAC6C2?style=for-the-badge"/></a> <a href="https://facebook.com/elliottophellia"><img src="https://img.shields.io/badge/FACEBOOK-DAC6C2?style=for-the-badge"/></a> <a href="https://twitter.com/elliottophellia"><img src="https://img.shields.io/badge/TWITTER-DAC6C2?style=for-the-badge"/></a> <a href="https://instagram.com/elliottophellia"><img src="https://img.shields.io/badge/INSTAGRAM-DAC6C2?style=for-the-badge"/></a> <a href="https://threads.net/@elliottophellia"><img src="https://img.shields.io/badge/THREAD-DAC6C2?style=for-the-badge"/></a> <a href="https://t.me/elliottophellia"><img src="https://img.shields.io/badge/TELEGRAM-DAC6C2?style=for-the-badge"/></a> <a href="https://linkedin.com/in/elliottophellia"><img src="https://img.shields.io/badge/LINKEDIN-DAC6C2?style=for-the-badge"/></a> <a href="#"><img src="https://img.shields.io/badge/%23-DAC6C2?style=for-the-badge"/></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rexxhayanasi&show_icons=true&locale=en&layout=compact" alt="rexxhayanasi" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rexxhayanasi&show_icons=true&locale=en" alt="rexxhayanasi" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rexxhayanasi&" alt="rexxhayanasi" /></p>
-<!---
-RexxHayanasi/RexxHayanasi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img src="https://i.ibb.co/5r2WJZy/Elaina-With-Effective-Python-1-2.webp" width="100%" align="center" />
+</div>

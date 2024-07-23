@@ -10,9 +10,9 @@
 <br/>
 <br/>
 
-- Name **Reidho Satria** / **レイドー・サトリア**
+- Name **RexxzynXD** / **レイドー・サトリア**
 
-- Live in **South Sumatra, Indonesia**
+- Live in **West JAVA, Indonesia**
 
 - Studying [**Junior Back-End Developer**](https://dicoding.com)
 
@@ -33,12 +33,6 @@
   
 - 📗 [***elliottophellia/aizawa***](https://github.com/elliottophellia/aizawa) <br/>
   Simple command-line webshell that executes commands via the HTTP request in order to avoid any WAF or IDS while bypassing disable_function.
-- 📘 [***elliottophellia/yakumo***](https://github.com/elliottophellia/yakumo) <br/>
-  FREE CHECKED PROXY LIST UPDATED EVERY 10 MINUTES - HTTP(S), SOCKS4, SOCKS5 (WITH GLOBAL/COUNTRY SPECIFIC RESULT).
-- 📙 [***elliottophellia/kyoko***](https://github.com/elliottophellia/kyoko) <br/>
-  KyokoAPI - My collection of free API you can use on your project.
-- 📒 [***elliottophellia/kaga***](https://github.com/elliottophellia/kaga) <br/>
-  Kaga is a Reverse IP Lookup tool written in PowerShell and BourneShell to make it easy to use in any environment..
   
 <img src="https://i.ibb.co/YWjgGF4/pp1.png" width="270" align="right" />
 <br/>

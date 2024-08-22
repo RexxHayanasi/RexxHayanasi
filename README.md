@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm RexxzynXD</h1>
-## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> IM | REXXHAYANASI
+<img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> REXXHAYANASI |  FROM INDONESIA
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=4500&color=51AAFF&lines=Developer+From+INDONESIA+ ;HAII><;SELAMAT+DATANG+%F0%9F%92%95%F0%9F%8C%B9)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=4500&color=51AAFF&lines=CODE+FREE+FOR+ALL+;GUNAKAN+DENGAN+BIJAK!!!;SELAMAT+DATANG+%F0%9F%92%95%F0%9F%8C%B9)](https://git.io/typing-svg)
  ------
  
  </details>
@@ -9,6 +9,7 @@
 <p align="center">
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="nz" width="700"/>
 </p>
+
 <h3 align="center">A developer from Indonesia</h3>
 
 <img src="https://i.ibb.co/T0ch9fG/pp2.png" width="100%" alt="profile" border="0"/>
